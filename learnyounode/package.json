@@ -1,0 +1,25 @@
+{
+  "name": "learnyounode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bl": "^0.8.0"
+  },
+  "devDependencies": {
+    "bl": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jnhuynh/learn-nodeschool.io.git"
+  },
+  "author": "John Huynh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnhuynh/learn-nodeschool.io/issues"
+  },
+  "homepage": "https://github.com/jnhuynh/learn-nodeschool.io"
+}
